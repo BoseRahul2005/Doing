@@ -1,4 +1,4 @@
-import SectionTitle from '../components/section-title';
+import SectionTitle from '../../components/landingPage/section-title';
 import { StarIcon } from 'lucide-react';
 
 export default function OurTestimonialSection() {

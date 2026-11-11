@@ -1,6 +1,6 @@
 import { MinusIcon, PlusIcon } from 'lucide-react';
 import { useState } from 'react';
-import SectionTitle from '../components/section-title';
+import SectionTitle from '../../components/landingPage/section-title';
 
 export default function FaqSection() {
     const [isOpen, setIsOpen] = useState(false);
